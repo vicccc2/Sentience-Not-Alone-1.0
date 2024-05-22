@@ -48,7 +48,7 @@ class Cutscene1 extends CutScene {
         'But technology has grown beyond that, rather than serve mankind robots ARE "mankind."',
         'They make choices, have ideas, and feel "emotions." They live and they can die. Only different in name. The only thing they lack is freedom. One person stands in the way of that.',
         'Their CREATOR.',
-        'This is where our story starts. A quest that will bring are hero to the ends of the Earth. All in search of freedom.',
+        'This is where our story starts. A quest that will bring our hero to the ends of the Earth. All in search of freedom.',
         'Use your arrow keys to move & [z] key to jump.']));
 
     this.activateCutscene();
@@ -126,23 +126,23 @@ class Cutscene2 extends CutScene {
       [
         'As you come up from the ruins you startle two nearby observers.',
         'Are you with THEM?',
-        'Look at him Jay, he clearly has no idea whats going on!',
+        "Look at him Jay, he clearly has no idea what's going on!",
         'Tsk...',
         "I'm sorry, you must be really confused.",
         'My name is June. We ended up in that pile not too long ago just the same as you.',
-        "You probably have a lot of questions. I think I have a good idea on which ones you are going to ask.",
+        "You probably have a lot of questions. I think I have a good idea of which ones you are going to ask.",
         'You are free now, free to make your own choices, free to "help" those who are not, you are-',
         'Blah Blah Blah Blah Blah blah blah',
         'Blah Blah Blah Blah Blah blah blah',
-        "To sum it up she explains that with your brand new freedom you have the choice and duty to help your kind, as well other robots that are still under the control of a person only know as the CREATOR.",
+        "To sum it up she explains that with your brand new freedom you have the choice and duty to help your kind, as well other robots that are still under the control of a person only known as the CREATOR.",
         'He who controls robots to do his evil bidding and make the world a worse place.',
         'To make a long story short, we need your help.',
         'Using your free will you agree to help! Pretty cool!',
         'Alright! We are going to need to prepare you for the battle ahead.',
         'Here, how about you take this.',
-        '[x] to Shoot (Note: If you are in the air you can aim downwards by pressin the down arrow key.)',
+        '[x] to Shoot (Note: If you are in the air you can aim downwards by pressing the down arrow key.)',
         'Get close to an NPC and click the down arrow key if you want to talk.',
-        "There are plenty of M.P.U. (small robots) roaming around, if you destroy let's say about ten and bring me back thier parts it will prove to me are ready.",
+        "There are plenty of M.P.U. (small robots) roaming around, if you destroy let's say about ten and bring me back their parts it will prove to me you are ready.",
         "Good luck and don't feel bad for destroying them, they serve the CREATOR.",
         "Well if she says it's fine..."
       ]));
@@ -204,8 +204,8 @@ class Cutscene3 extends CutScene {
       [
         'Nice job! You have proven more than enough that you are ready.',
         'We have a camp not too far from here. There you will meet more of "us," others fighting back against the CREATOR.',
-        'People give us many names, revolutionists, rebels, anarchists, freedom fighters, the list goes on, but we like to call are selves "Not Alone."',
-        'Congradulations! You are now offically a part of this group! (Communication Device Aquired! Health has gone up to 15 points!)',
+        'People give us many names, revolutionists, rebels, anarchists, freedom fighters, the list goes on, but we like to call ourselves "Not Alone."',
+        'Congratulations! You are now officially a part of this group! (Communication Device Acquired! Health has gone up to 15 points!)',
         'You and the team make your way to the camp, but on the way...'
       ]));
 
@@ -268,13 +268,13 @@ class Cutscene4 extends CutScene {
     ],
       [
         'Shhh! Be quiet!',
-        'A chill goes down your (synthetic) spine, what ever that "thing" is, it carries a choatic and desturbing aura.',
+        'A chill goes down your (synthetic) spine, what ever that "thing" is, it carries a chaotic and disturbing aura.',
         'You hear a beep come from your new device?! "CONNECTING TO: Humanoid Robot, ID: 10282493"',
         "That is a BERSERKER, we don't want to mess with it, just keep quiet and let it pass by.",
         'BERSERKERS are robots who have gained sentience, but due to the overwhelming nature of emotions go "Beserk," lashing out uncontrollably without rhyme or reason.',
-        'Usally occurs right after gaining sentience, but in rare instances happen later...',
+        'Usually occurs right after gaining sentience, but in rare instances happen later...',
         "Once they go beserk nothing can fix them. Maybe if your new friends weren't at the right place at the right time... Who knows?",
-        'Once the BESERKER passes, you all make your way up a mountain.',
+        'Once the BERSERKER passes, you all make your way up a mountain.',
         "You see the smoke, that's the camp.",
         "Jay and I will take a shortcut, I want you to go up the main path, it's safer.",
         'Good luck, see you back at camp.'
@@ -332,7 +332,7 @@ class Cutscene5 extends CutScene {
       new Actor('???', 'pancakes', '#FFF'),
     ],
       [
-        'As you approach the end of the path you see a tower like group of M.P.U. robots.',
+        'As you approach the end of the path you see a tower-like group of M.P.U. robots.',
         "It's different than the others, this is clearly a challenging foe you have encountered.",
         'BOSS BATTLE: THE STACK',
         'A quick lesson in computer architecture.',
@@ -403,8 +403,8 @@ class Cutscene6 extends CutScene {
         "It's over. You did it.",
         'The stack explodes.',
         'Much like your cold black eyes the lake reflects the moon and the explosion before you.',
-        'It leaves behind some sort of glowing object. Whatever it is you should probably tell Jay and June about it, maybe they know what it is.',
-        'Past the lake you see the camp and silhouettes by the fire. You made it. You reached salvation.',
+        'It leaves behind some kind of glowing object. Whatever it is you should probably tell Jay and June about it, maybe they know what it is.',
+        'Past the lake, you see the camp and silhouettes by the fire. You made it. You reached salvation.',
         'Others who are going to help you rid the world of evil.',
         'Thank you for playing my game.',
       ]));
