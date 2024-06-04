@@ -82,7 +82,7 @@ class mainMenuScene extends Phaser.Scene {
     this.textArray = [this.startText, this.controlsText, this.creditsText, this.masterVolume, this.musicVolume, this.soundEffectsVolume]
 
     // credits
-    this.credits = this.add.text(16, 16, 'Credits:\nEngine: Phaser 3\nProgrammer/Designer/Artist: Victor Ruiz\nMusic: “Christmas synths” by 3xBlast on SoundCloud licensed CC0\n“Fast Mystery” by Dizzy Crow licensed CC0\n“Mirror Lake” by @Joth_Music on Twitter licensed CC0\n“Near and Far” by @Joth_Music on Twitter licensed CC0\n“Pixel_sprinter” by Zane Little Music, Zane Little on Ko-fi licensed CC0\nSoundEffects: “8-Bit Retro Game SFX Pack” by David Dumais Audio\nlicensed Single Entity Standard Unity Asset Store EULA\nFonts: “c64esque” by andraaspar licensed CC0', {
+    this.credits = this.add.text(16, 16, 'Credits:\nEngine: Phaser 3\nProgrammer/Designer/Artist: TheDireRaven\nMusic: “Christmas synths” by 3xBlast on SoundCloud licensed CC0\n“Fast Mystery” by Dizzy Crow licensed CC0\n“Mirror Lake” by @Joth_Music on Twitter licensed CC0\n“Near and Far” by @Joth_Music on Twitter licensed CC0\n“Pixel_sprinter” by Zane Little Music, Zane Little on Ko-fi licensed CC0\nSoundEffects: “8-Bit Retro Game SFX Pack” by David Dumais Audio\nlicensed Single Entity Standard Unity Asset Store EULA\nFonts: “c64esque” by andraaspar licensed CC0', {
       fontSize: '16px',
       fontFamily: 'c64esque',
       color: '#FFF',
